@@ -134,7 +134,7 @@
                         </path>
                     </svg>
                 </div>
-                <img src="/assets/images/video-caption.png" class="rounded-lg">
+                <img src="/assets/images/mosaique.png" class="rounded-lg">
             </div>
         </div>
     </div>
